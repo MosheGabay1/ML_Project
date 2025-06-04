@@ -164,6 +164,6 @@ Distributed under the **MIT License**. Feel free to use, adapt, and distribute a
 For questions or suggestions, please reach out:
 
 - **Author:** Moshe Gabay  
-- **Email:** moshe.gabay@example.com  
+- **Email:** moshegabai111@gmail.com  
 
 Happy modeling! 🚀  
