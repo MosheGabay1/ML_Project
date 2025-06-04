@@ -106,9 +106,9 @@ This repository contains an end-to-end solution for predicting residential prope
 ### Model Performance (5-Fold CV RMSE on Log SalePrice)
 | Model                        | Avg. RMSE  |
 |------------------------------|------------|
-| XGBoost (No PCA)             | 0.118      |
-| XGBoost (With PCA)           | 0.120      |
-| **LightGBM (Final Model)**   | **0.115**  |
+| XGBoost (No PCA)             | 0.343      |
+| XGBoost (With PCA)           | 0.303      |
+| **LightGBM (Final Model)**   | **0.206**  |
 
 > LightGBM yielded the lowest RMSE, demonstrating superior accuracy in predicting (log) sale prices.
 
