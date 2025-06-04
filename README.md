@@ -31,7 +31,7 @@ This repository contains an end-to-end solution for predicting residential prope
 
 - **📊 Model Comparison**  
   - Tested **XGBoost** (with/without PCA) against **LightGBM**  
-  - LightGBM achieved ~30% lower RMSLE (on log-transformed target) compared to XGBoost  
+  - LightGBM achieved ~33% lower RMSLE (on log-transformed target) compared to XGBoost  
 
 - **🔍 Robust Missing-Value Strategy**  
   - Combined median/mode imputation for simple columns  
